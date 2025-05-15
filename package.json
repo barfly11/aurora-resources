@@ -9,8 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "^14.0.0",  // Use a recent version like 14.0.0 or higher
-  // ...other dependencies
+    "next": "^14.0.0",
   },
   "devDependencies": {
   }
